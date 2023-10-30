@@ -1,1 +1,50 @@
-[]
+[
+   {
+      "symbol": "REMUS",
+      "series": "SM",
+      "ind": null,
+      "faceVal": "10",
+      "subject": "INTERIM DIVIDEND - RS 2 PER SHARE",
+      "exDate": "27-Oct-2023",
+      "recDate": "28-Oct-2023",
+      "bcStartDate": "-",
+      "bcEndDate": "-",
+      "ndStartDate": "-",
+      "comp": "Remus Pharmaceuticals Limited",
+      "isin": "406455",
+      "ndEndDate": "-",
+      "caBroadcastDate": "25-Oct-2023"
+   },
+   {
+      "symbol": "REMUS",
+      "series": "SM",
+      "ind": null,
+      "faceVal": "10",
+      "subject": "INTERIM DIVIDEND - RS 2 PER SHARE",
+      "exDate": "27-Oct-2023",
+      "recDate": "28-Oct-2023",
+      "bcStartDate": "-",
+      "bcEndDate": "-",
+      "ndStartDate": "-",
+      "comp": "Remus Pharmaceuticals Limited",
+      "isin": "406455",
+      "ndEndDate": "-",
+      "caBroadcastDate": "25-Oct-2023"
+   },
+   {
+      "symbol": "REMUS",
+      "series": "SM",
+      "ind": null,
+      "faceVal": "10",
+      "subject": "INTERIM DIVIDEND - RS 2 PER SHARE",
+      "exDate": "27-Oct-2023",
+      "recDate": "28-Oct-2023",
+      "bcStartDate": "-",
+      "bcEndDate": "-",
+      "ndStartDate": "-",
+      "comp": "Remus Pharmaceuticals Limited",
+      "isin": "406455",
+      "ndEndDate": "-",
+      "caBroadcastDate": "23-Oct-2023"
+   }
+]
