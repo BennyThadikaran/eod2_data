@@ -1,5 +1,5 @@
 {
-   "lastUpdate": "2023-11-01T00:00:00",
+   "lastUpdate": "2023-11-03T00:00:00",
    "holidayYear": 2023,
    "equityActionsExpiry": "2023-11-07T00:00:00",
    "smeActionsExpiry": "2023-11-07T00:00:00",
@@ -811,5 +811,6 @@
          "ndEndDate": "-",
          "caBroadcastDate": "26-Oct-2023"
       }
-   ]
+   ],
+   "DLV_PENDING_DATES": []
 }
