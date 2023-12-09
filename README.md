@@ -2,7 +2,9 @@
 
 This repo holds End of Day daily data for NSE stocks in csv format.
 
-This repo is used by [Eod2](https://github.com/BennyThadikaran/eod2)
+This repo is used by [EOD2](https://github.com/BennyThadikaran/eod2)
+
+### Issues and Feature Requests can be raised at [EOD2 repo](https://github.com/BennyThadikaran/eod2)
 
 Its purpose is to separate the csv data from the Eod2 project code and keep a clean commit log.
 
