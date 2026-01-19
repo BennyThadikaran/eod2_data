@@ -1,8 +1,9 @@
 {
-   "lastUpdate": "2026-01-13T00:00:00+05:30",
+   "lastUpdate": "2026-01-16T00:00:00+05:30",
    "data-version": 3.1,
    "year": 2026,
    "holidays": {
+      "15-Jan-2026": "Trading Holiday on January 15, 2026 on account of Municipal Corporation Election in Maharashtra in Capital Market Segment",
       "26-Jan-2026": "Republic Day",
       "15-Feb-2026": "Mahashivratri",
       "03-Mar-2026": "Holi",
@@ -25,7 +26,7 @@
    },
    "DLV_PENDING_DATES": [],
    "special_sessions": [],
-   "special_sessions_last_update": "2025-09-19",
+   "special_sessions_last_update": "2026-01-16",
    "equityActions": [
       {
          "symbol": "SKMEGGPROD",
