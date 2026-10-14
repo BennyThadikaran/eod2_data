@@ -15,5 +15,10 @@ The repo data is updated on a weekly basis.
 ### Folders
 
 - daily: OHLCV daily timeframe data adjusted for bonus and splits.
-- delivery: Daily delivery data for NSE stocks
 - All other files are required by Eod2 for syncing data.
+
+### Notes on data
+
+- No adjustments for dividends, right issue or other corporate actions.
+- This dataset is primarily used for analysis and screening.
+- It is not meant for backtesting. Delisted stocks are auto-removed after 1 year on inactivity. To create a dataset free of survivorship bias checkout [eod2_utils - Building a survivorship bias free dataset](https://github.com/BennyThadikaran/eod2_utils#building-a-survivorship-bias-free-dataset)
