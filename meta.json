@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-11-09T00:00:00+05:30",
-  "market_breadth_last_update": "2026-11-09T00:00:00+05:30",
+  "lastUpdate": "2026-11-13T00:00:00+05:30",
+  "market_breadth_last_update": "2026-11-13T00:00:00+05:30",
   "last_holiday_update": "",
   "data-version": 3.5,
   "year": 2026,
@@ -28,7 +28,7 @@
   },
   "DLV_PENDING_DATES": [],
   "special_sessions": [],
-  "special_sessions_last_update": "2026-11-09",
+  "special_sessions_last_update": "2026-11-13",
   "equityActions": [
     {
       "bcEndDate": "-",
