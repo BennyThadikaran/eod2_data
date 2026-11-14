@@ -4745,8 +4745,8 @@
     "MAXENGS": "INE1W3F01014",
     "HGSINDIALT": "INE813R01012",
     "VPFL": "INE2RWX01016",
-    "POWERIETF": "INF109K1A724",
-    "VEEFIN": "INE0Q0M01015"
+    "VEEFIN": "INE0Q0M01015",
+    "POWERIETF": "INF109K1A724"
   },
   "isin2hist": {
     "INE013E01017": [
@@ -14918,7 +14918,7 @@
       },
       {
         "symbol": "AGI",
-        "from_date": "2022-05-12",
+        "from_date": "2022-05-11",
         "to_date": "2026-11-13",
         "action": null
       }
@@ -46603,17 +46603,17 @@
         "action": null
       }
     ],
-    "INF109K1A724": [
+    "INE0Q0M01015": [
       {
-        "symbol": "POWERIETF",
+        "symbol": "VEEFIN",
         "from_date": "2026-11-11",
         "to_date": "2026-11-13",
         "action": null
       }
     ],
-    "INE0Q0M01015": [
+    "INF109K1A724": [
       {
-        "symbol": "VEEFIN",
+        "symbol": "POWERIETF",
         "from_date": "2026-11-11",
         "to_date": "2026-11-13",
         "action": null
